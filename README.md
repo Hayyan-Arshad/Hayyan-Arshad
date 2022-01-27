@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hayyan-Arshad
-Computer Science Undergrad at NITK, Suratkhal
+-Computer Science Undergrad at NITK, Suratkhal
 - 🌱 I’m currently learning C,C++,Python and Javascript
 - 💞️ I’m looking to collaborate on C++ or Python
 - 📫 How to reach me Hayyanhamnah@gmail.com
